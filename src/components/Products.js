@@ -76,7 +76,7 @@ constructor(props) {
                                             this.props.addToCart(product)
                                             this.closeModal()
                                         }}>
-                                            Add to cart
+                                        Add to cart
                                         </button>
                                     </div>
                                 </div>
